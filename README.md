@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate competitive programmer and developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj4482&label=Profile%20views&color=0e75b6&style=flat" alt="amanraj4482" /> </p>
 
 <h3 align="left" style="font-size: 28px; font-weight: bold; color: #333; margin-bottom: 20px;">About Me</h3>
 <p align="left" style="font-size: 18px; color: #555; line-height: 1.8;">
