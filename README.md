@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/amanraj4482" target="blank">
+  <a href="https://linkedin.com/in/amancore" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanraj4482" height="30" width="40" style="margin-right: 15px;" />
   </a>
   <a href="https://instagram.com/chourasia_aman_" target="blank">
@@ -34,7 +34,7 @@
   <a href="https://codeforces.com/profile/amancore" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amancore" height="30" width="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.leetcode.com/amancore__" target="blank">
+  <a href="https://www.leetcode.com/amancore" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amancore__" height="30" width="40" style="margin-right: 15px;" />
   </a>
   <a href="https://www.hackerearth.com/@aman8804623822" target="blank">
